@@ -1,0 +1,12 @@
+MAIL_DIR    ==> 기본 메일 디렉터리
+PASS_MAX_DAYS ==> 패스워드 에이징
+PASS_MIN_DAYS ==> 패스워드 에이징
+PASS_WARN_AGE ==> 패스워드 에이징
+
+UID_MIN ==> 사용자 계정의 UID 범위
+UID_MAX
+
+GID_MIN ==> 사용자 계정의 GID 범위
+GID_MAX
+
+ENCRYPT_METHOD ==> 암호화 기법
